@@ -1,13 +1,13 @@
 {
-  "name": "angular-daterangepicker",
-  "version": "0.2.2",
-  "homepage": "https://github.com/fragaria/angular-daterangepicker",
+  "name": "angular-daterangepicker-webpack",
+  "version": "1.0.0",
+  "homepage": "https://github.com/JamDeezy/angular-daterangepicker-webpack",
   "authors": [
     "Filip Vařecha <filip.varecha@fragaria.cz>",
     "Tibor Kulčár <tibor.kulcar@fragaria.cz>",
     "Lukáš Marek <lukas.marek@fragaria.cz>"
   ],
-  "description": "Angular.js wrapper for Dan Grosmann's bootstrap date range picker (https://github.com/dangrossman/bootstrap-daterangepicker).",
+  "description": "fragaria's date range picker that supports commonjs & AMD",
   "license": "MIT",
   "private": false,
   "dependencies": {
@@ -26,5 +26,9 @@
     "grunt-ng-annotate": "^1.0.1",
     "grunt-wiredep": "^2.0.0",
     "load-grunt-tasks": "^3.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JamDeezy/angular-daterangepicker-webpack"
   }
 }
