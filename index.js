@@ -1,7 +1,7 @@
 var picker;
 var $ = require('jquery');
 var moment = require('moment');
-// require('daterangepicker');
+require('bootstrap-daterangepicker');
 
 picker = angular.module('daterangepicker', []);
 
