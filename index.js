@@ -209,7 +209,7 @@ picker.directive('dateRangePicker', ['$compile', '$timeout', '$parse', 'dateRang
 }]);
 
 if (typeof module !== "undefined" && module.exports) {
-  module.exports['angular-daterangepicker-webpack'] = picker;
+  module.exports = picker;
 } else if ((typeof define !== "undefined" && define !== null) && (define.amd !== null)) {
   define("angular-daterangepicker-webpack", function() {
     return picker;
