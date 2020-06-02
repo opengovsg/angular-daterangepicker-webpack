@@ -1,13 +1,13 @@
 {
-  "name": "angular-daterangepicker-webpack",
+  "name": "@opengovsg/angular-daterangepicker-webpack",
   "version": "1.1.5",
-  "homepage": "https://github.com/JamDeezy/angular-daterangepicker-webpack",
+  "homepage": "https://github.com/opengovsg/angular-daterangepicker-webpack",
   "authors": [
     "Filip Vařecha <filip.varecha@fragaria.cz>",
     "Tibor Kulčár <tibor.kulcar@fragaria.cz>",
     "Lukáš Marek <lukas.marek@fragaria.cz>"
   ],
-  "description": "fragaria's date range picker that supports commonjs & AMD",
+  "description": "Fork of fragaria's date range picker that supports commonjs & AMD",
   "license": "MIT",
   "private": false,
   "dependencies": {
